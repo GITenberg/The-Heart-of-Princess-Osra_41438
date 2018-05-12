@@ -1,0 +1,52 @@
+_repo: The-Heart-of-Princess-Osra_41438
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Edwards, H. C. (Harry C.)
+    alias: Edwards, Harry C.
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '34137'
+    url: http://www.gutenberg.org/2009/agents/34137
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: '"The Heart of Princess Osra is part of Anthony Hope''s trilogy of novels
+  set in the fictional country of Ruritania and which spawned the genre of Ruritanian
+  romance. This collection of linked short stories is a prequel: it was written immediately
+  after the success of The Prisoner of Zenda and was published in 1896, but is set
+  in the 1730s, well over a century before the events of Zenda and its sequel, Rupert
+  of Hentzau. The stories deal with the love life of Princess Osra, younger sister
+  of Rudolf III, the shared ancestor of Rudolf Rassendyll, the English gentleman who
+  acts as political decoy inThe Prisoner of Zenda , and Rudolph V of the House of
+  Elphberg, the absolute monarch of that Germanic kingdom." taken from Wikipedia.'
+gutenberg_issued: '2012-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41438'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcsh 'Adventure stories'
+- !lcsh 'Princesses -- Fiction'
+tableOfContents: The happiness of Stephen the smith -- The wager of the Marquis de
+  Mérosailles -- The madness of Lord Harry Culverhouse -- The courtesy of Christian
+  the highwayman -- The sin of the Bishop of Modenstein -- The device of Giraldo the
+  painter -- The indifference of the miller of Hofbau -- The love of the Prince of
+  Glottenberg -- The victory of the Grand Duke of Mittenheim.
+title: The Heart of Princess Osra
+url: http://www.gutenberg.org/ebooks/41438
